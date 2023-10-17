@@ -1,3 +1,3 @@
 # demo
 
- Conventions description!
+ Conventions description
